@@ -107,7 +107,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(899, 65);
+            this.textBox1.Size = new System.Drawing.Size(979, 65);
             this.textBox1.TabIndex = 4;
             // 
             // WatchedFolder
@@ -126,7 +126,7 @@
             this.richTextBox1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(25, 156);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(899, 412);
+            this.richTextBox1.Size = new System.Drawing.Size(979, 412);
             this.richTextBox1.TabIndex = 6;
             this.richTextBox1.Text = "";
             // 
@@ -135,7 +135,7 @@
             this.progressBar1.ForeColor = System.Drawing.Color.LawnGreen;
             this.progressBar1.Location = new System.Drawing.Point(26, 147);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(899, 10);
+            this.progressBar1.Size = new System.Drawing.Size(976, 10);
             this.progressBar1.TabIndex = 8;
             // 
             // led8
@@ -231,7 +231,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.ClientSize = new System.Drawing.Size(936, 643);
+            this.ClientSize = new System.Drawing.Size(1008, 644);
             this.Controls.Add(this.led8);
             this.Controls.Add(this.led7);
             this.Controls.Add(this.led6);
